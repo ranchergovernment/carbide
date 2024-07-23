@@ -4,6 +4,6 @@ Please [submit any issues](https://github.com/ranchergovernment/carbide/issues) 
 
 ## Useful Links
 
-- Portal: https://portal.carbide.rfed.dev/dashboard/ (TEST)
+- Portal: https://portal.ranchercarbide.dev/dashboard/
 - Support: https://rancherfederal.zendesk.com/
 - Main Site: https://ranchergovernment.com/
